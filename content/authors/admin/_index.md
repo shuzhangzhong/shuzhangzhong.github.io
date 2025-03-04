@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 仲书璋
+title: Shuzhang Zhong
 
 # # Name pronunciation (optional)
 # name_pronunciation: Chien Shiung Wu
@@ -20,36 +20,35 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Second-Year PhD student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Peking University
+    url: https://english.pku.edu.cn/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:zsz@stu.pku.edu.cn'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+  # - icon: brands/x
+  #   url: https://twitter.com/GetResearchDev
+  # - icon: brands/instagram
+  #   url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://github.com/shuzhangzhong
+  # - icon: brands/linkedin
+  #   url: https://www.linkedin.com/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://scholar.google.com/citations?user=PpRWetwAAAAJ
+  # - icon: academicons/orcid
+  #   url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Efficient Multi-Modality Artificial Intelligence
+  - Algorithm/System/Hardware Co-Design/Co-Optimization
 
 education:
   - area: PhD Artificial Intelligence
@@ -183,4 +182,6 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I'm currently a second-year Ph.D. student advised by [Prof. Meng Li](https://mengli.me/) at the School of Integrated Circuit, Peking University. Before attending Peking University, I received a bachelor’s degree from Beihang University and served as the captain of SuperComputer Team under the supervision of Prof. Hailong Yang.
+
+My research interests focus on efficient multi-modality AI acceleration algorithms, systems and hardwares.
