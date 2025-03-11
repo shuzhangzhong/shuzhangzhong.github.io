@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Shuzhang Zhong
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+# name_pronunciation: Chien Shiung Wu
 
-# Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+# # Full name (for SEO)
+# first_name: Shiung Wu
+# last_name: Chien
 
 # Status emoji
 status:
@@ -17,21 +17,20 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Second-Year PhD student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Peking University
+    url: https://english.pku.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Efficient Multi-Modality Artificial Intelligence
+  - Algorithm/System/Hardware Co-Design/Co-Optimization
 
 # Education to show in About widget
 education:
@@ -120,5 +119,7 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I'm currently a second-year Ph.D. student advised by [Prof. Meng Li](https://mengli.me/) at the School of Integrated Circuit, Peking University. Before attending Peking University, I received a bachelor’s degree from Beihang University and served as the captain of SuperComputer Team under the supervision of Prof. Hailong Yang.
+My research interests focus on efficient multi-modality AI acceleration algorithms, systems and hardwares.
+
 {style="text-align: justify;"}
