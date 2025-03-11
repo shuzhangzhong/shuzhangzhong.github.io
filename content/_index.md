@@ -201,9 +201,9 @@ sections:
   #     columns: '2'
   #     view: card
   - block: collection
+    id: Publications
     content:
       title: Recent Publications
-      id: Publications
       text: |-
         {{% callout note %}}
         Quickly discover relevant content by [filtering publications](./publication/).
