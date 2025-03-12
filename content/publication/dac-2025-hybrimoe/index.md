@@ -1,5 +1,5 @@
 ---
-title: "ProPD: Dynamic Token Tree Pruning and Generation for LLM Parallel Decoding"
+title: "HybriMoE: Hybrid CPU-GPU Scheduling and Cache Management for Efficient MoE Inference"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
