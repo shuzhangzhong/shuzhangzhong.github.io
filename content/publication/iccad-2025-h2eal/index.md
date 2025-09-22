@@ -1,5 +1,5 @@
 ---
-title: "HD-MoE: Hybrid and Dynamic Parallelism for Mixture-of-Expert LLMs with 3D Near-Memory Processing"
+title: "H2EAL: Hybrid-Bonding Architecture with Hybrid Sparse Attention for Efficient Long-Context LLM Inference"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
