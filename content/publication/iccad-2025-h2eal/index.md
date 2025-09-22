@@ -1,27 +1,30 @@
 ---
-title: "SpecASR: Accelerating LLM-based Automatic Speech Recognition via Speculative Decoding"
+title: "HD-MoE: Hybrid and Dynamic Parallelism for Mixture-of-Expert LLMs with 3D Near-Memory Processing"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Linye Wei
+  - Zizhuo Fu
+  - Xiaotian Guo
+  - Wenxuan Zeng
   - admin
-  - Songqiang Xu
+  - Yadong Zhang
+  - Peiyu Chen
   - Runsheng Wang
-  - Ru Huang
+  - Le Ye
   - Meng Li
 
-# # Author notes (optional)
-# author_notes:
-#   - 'Equal contribution'
-#   - 'Equal contribution'
+# Author notes (optional)
+author_notes:
+  - 'Equal contribution'
+  - 'Equal contribution'
 
-date: "2025-02-25T00:00:00Z"
+date: "2025-06-25T00:00:00Z"
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2025-02-25T00:00:00Z"
+publishDate: "2025-06-25T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -29,8 +32,8 @@ publishDate: "2025-02-25T00:00:00Z"
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Design Automation Conference (DAC) 2025*
-publication_short: In *DAC 2025*
+publication: In *ACM/IEEE International Conference on Computer Aided Design (ICCAD) 2025*
+publication_short: In *ICCAD 2025*
 
 abstract: 
 

@@ -1,15 +1,14 @@
 ---
-title: "SpecASR: Accelerating LLM-based Automatic Speech Recognition via Speculative Decoding"
+title: "PrivQuant: Communication-Efficient Private Inference with Quantized Network/Protocol Co-Optimization"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Linye Wei
+  - Tianshi Xu
   - admin
-  - Songqiang Xu
+  - Wenxuan Zeng
   - Runsheng Wang
-  - Ru Huang
   - Meng Li
 
 # # Author notes (optional)
@@ -17,11 +16,11 @@ authors:
 #   - 'Equal contribution'
 #   - 'Equal contribution'
 
-date: "2025-02-25T00:00:00Z"
+date: "2024-10-27T00:00:00Z"
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2025-02-25T00:00:00Z"
+publishDate: "2024-06-27T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -29,8 +28,8 @@ publishDate: "2025-02-25T00:00:00Z"
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Design Automation Conference (DAC) 2025*
-publication_short: In *DAC 2025*
+publication: In *ACM/IEEE International Conference on Computer Aided Design (ICCAD) 2024*
+publication_short: In *ICCAD 2024*
 
 abstract: 
 

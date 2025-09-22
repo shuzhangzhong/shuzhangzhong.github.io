@@ -1,13 +1,13 @@
 ---
-title: "SpecASR: Accelerating LLM-based Automatic Speech Recognition via Speculative Decoding"
+title: "HybriMoE: Hybrid CPU-GPU Scheduling and Cache Management for Efficient MoE Inference"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Linye Wei
   - admin
-  - Songqiang Xu
+  - Yanfan Sun
+  - Ling Liang
   - Runsheng Wang
   - Ru Huang
   - Meng Li
