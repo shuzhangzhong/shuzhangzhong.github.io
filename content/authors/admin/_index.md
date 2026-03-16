@@ -76,7 +76,7 @@ social:
 highlight_name: true
 ---
 
-I'm currently a second-year Ph.D. student advised by [Prof. Meng Li](https://mengli.me/) at the School of Integrated Circuit, Peking University. Before attending Peking University, I received a bachelor’s degree from Beihang University and served as the captain of SuperComputer Team under the supervision of Prof. Hailong Yang.
+I'm currently a third-year Ph.D. student advised by [Prof. Meng Li](https://mengli.me/) at the School of Integrated Circuit, Peking University. Before attending Peking University, I received a bachelor’s degree from Beihang University and served as the captain of SuperComputer Team under the supervision of Prof. Hailong Yang.
 My research interests focus on efficient multi-modality AI acceleration algorithms, systems and hardwares.
 
 {style="text-align: justify;"}
