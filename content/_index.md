@@ -245,7 +245,6 @@ sections:
       address:
         street: No.5, Yiheyuan Road, Peking University
         city: Beijing
-        region: CA
         country: China
     design:
       columns: '2'
