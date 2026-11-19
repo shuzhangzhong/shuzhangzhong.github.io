@@ -5,7 +5,7 @@ title: "HD-MoE: Hybrid and Dynamic Parallelism for Mixture-of-Expert LLMs with 3
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Hochen Huang
+  - Haochen Huang
   - admin
   - Zhe Zhang
   - Shuangchen Li
@@ -20,7 +20,7 @@ author_notes:
   - 'Equal contribution'
 
 date: "2025-06-25T00:00:00Z"
-doi: ''
+doi: '10.1109/ICCAD66269.2025.11240984'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2025-06-25T00:00:00Z"
@@ -48,7 +48,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://arxiv.org/pdf/2509.09420'
 url_code: ''
 url_dataset: ''
 url_poster: ''

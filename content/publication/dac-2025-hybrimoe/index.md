@@ -18,7 +18,7 @@ authors:
 #   - 'Equal contribution'
 
 date: "2025-02-25T00:00:00Z"
-doi: ''
+doi: '10.1109/DAC63849.2025.11132579'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2025-02-25T00:00:00Z"
@@ -46,7 +46,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://arxiv.org/pdf/2507.18181'
 url_code: ''
 url_dataset: ''
 url_poster: ''

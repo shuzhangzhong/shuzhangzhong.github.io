@@ -18,7 +18,7 @@ authors:
 #   - 'Equal contribution'
 
 date: "2025-02-25T00:00:00Z"
-doi: ''
+doi: '10.1109/DAC63849.2025.11133274'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2025-02-25T00:00:00Z"
@@ -46,8 +46,8 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
-url_code: ''
+url_pdf: 'https://arxiv.org/pdf/2504.05897'
+url_code: 'https://github.com/PKU-SEC-Lab/HybriMoE'
 url_dataset: ''
 url_poster: ''
 url_project: ''
