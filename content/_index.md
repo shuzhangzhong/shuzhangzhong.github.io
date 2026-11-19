@@ -63,19 +63,21 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Research Intern
-          company: MicroSoft Research
+          company: ByteDance Seed Infra
+          company_url: ''
+          company_logo: ''
+          location: Beijing
+          date_start: '2026-09-01'
+          date_end: ''
+          description: ''
+        - title: Research Intern
+          company: Microsoft Research Asia
           company_url: ''
           company_logo: ''
           location: Beijing
           date_start: '2025-09-01'
-          date_end: ''
-          # description: |2-
-          #     Responsibilities include:
-
-          #     * Analysing
-          #     * Modelling
-          #     * Deploying
-          description: Efficient, Robust and Scalable agent system. 
+          date_end: '2026-05-01'
+          description: Efficient, Robust and Scalable agent system.
         - title: Research Intern
           company: Alibaba DAMO Academy
           company_url: ''
