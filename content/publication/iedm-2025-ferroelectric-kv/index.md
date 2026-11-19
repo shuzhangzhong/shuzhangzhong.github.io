@@ -11,10 +11,6 @@ authors:
   - Qianqian Huang
   - Ru Huang
 
-author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
-
 date: "2025-12-06T00:00:00Z"
 doi: '10.1109/IEDM50572.2025.11353834'
 
